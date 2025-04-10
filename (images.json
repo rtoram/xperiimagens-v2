@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1,
+    "title": "Sunrise in the mountains",
+    "category": "Nature",
+    "tags": ["sunrise", "mountains", "nature"],
+    "path": "images/nature/sunrise.jpg",
+    "uploaded_at": "2025-04-10T18:00:00Z"
+  },
+  {
+    "id": 2,
+    "title": "City skyline at night",
+    "category": "Urban",
+    "tags": ["city", "skyline", "night"],
+    "path": "images/urban/skyline.jpg",
+    "uploaded_at": "2025-04-10T18:10:00Z"
+  }
+]
